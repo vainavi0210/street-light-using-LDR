@@ -1,4 +1,4 @@
-# street-light-using-LDR# LED Brightness Adjusting Project
+# LED Brightness Adjusting Project Using LDR
 
 ## Description
 This project is used to adjust the brightness of an LED using a potentiometer.
