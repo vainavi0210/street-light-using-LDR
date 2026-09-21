@@ -14,7 +14,7 @@ This project is used to adjust the brightness of an LED using a potentiometer.
 ## Project Setup
 The project was assembled on a breadboard using the required components.
 
-![Project Setup](IMG-20260920-WA0003.jpg)
+![Project Setup](Glowing%20LED%20using%20LDR.jpeg)
 
 ## Procedure
 1. Connected the components on the breadboard.
